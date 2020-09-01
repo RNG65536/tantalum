@@ -1,6 +1,12 @@
-![Tantalum Sample Render](https://raw.githubusercontent.com/tunabrain/tantalum/master/Header.jpg "Tantalum Sample Render")
+![Tantalum Sample Render](Header.jpg "Tantalum Sample Render")
 
 # The Tantalum Renderer #
+
+## C++ port ##
+
+![](cpp_port/window.jpg)
+
+Requires [glbinding](https://github.com/cginternals/glbinding), [globjects](https://github.com/cginternals/globjects) and [GLFW](https://github.com/glfw/glfw) to build.
 
 ## About ##
 
